@@ -1,0 +1,16 @@
+origen,destino,peso
+Do,Re,2
+Do,Mi,4
+Do,Sol,7
+Re,Mi,2
+Re,Fa,5
+Re,Sol,6
+Mi,Fa,1
+Mi,Sol,3
+Fa,Sol,2
+Fa,La,6
+Sol,La,2
+Sol,Si,5
+La,Si,2
+La,Do2,8
+Si,Do2,1
