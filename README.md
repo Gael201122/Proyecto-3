@@ -28,3 +28,5 @@ Versión de consola: `python main.py`
 ```
 flake8 .
 ```
+
+Autor: Roberto Gael Torres Cervantes
